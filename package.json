@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/darlanguilherme/character-api/issues"
   },
-  "homepage": "https://github.com/darlanguilherme/character-api#readme"
+  "homepage": "https://github.com/darlanguilherme/character-api#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "git-commit-msg-linter": "^4.2.1",
+    "typescript": "^4.8.4"
+  }
 }
