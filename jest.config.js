@@ -1,6 +1,6 @@
 
-export default {
-  roots:['<rootDir>/src'],
+module.exports = {
+  roots: ['<rootDir>/src'],
   collectCoverageFrom: ['<rootDir>/src/**/*.ts'],
   coverageDirectory: "coverage",
   testEnvironment: "node",
